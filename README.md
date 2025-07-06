@@ -1,1 +1,32 @@
-# AI_FitnessTracker
+# Design
+
+## Purpose and Target Audience
+- Purpose would be for 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
